@@ -13,6 +13,8 @@ export const CATEGORIES = [
   "News & Media",
 ];
 
+export const AUDITOR_VENDOR = "Tyler Technologies (iasWorld)";
+
 export const LINKS = [
   // ---------- Government ----------
   { name: "Lake County Government", category: "Government", subcategory: "County", url: "https://www.lakecountyohio.gov/", description: "Official Lake County government portal" },
